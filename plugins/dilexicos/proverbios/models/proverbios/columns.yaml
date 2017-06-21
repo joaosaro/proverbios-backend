@@ -1,0 +1,16 @@
+columns:
+    part1:
+        label: 'Parte 1'
+        type: text
+        searchable: true
+        sortable: true
+    part2:
+        label: 'Parte 2'
+        type: text
+        searchable: true
+        sortable: true
+    language:
+        label: Linguagem
+        type: text
+        searchable: true
+        sortable: true

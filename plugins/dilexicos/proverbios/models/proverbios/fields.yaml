@@ -1,0 +1,28 @@
+fields:
+    active:
+        label: Activo
+        span: auto
+        placeholder: ''
+        default: 1
+        required: 1
+        type: switch
+    language:
+        label: Lingua
+        oc.commentPosition: ''
+        options:
+            pt-pt: 'Português (Portugal)'
+            pt-br: 'Português (Brasil)'
+            en: Inglês
+        span: auto
+        type: dropdown
+    part1:
+        label: 'Primeira parte'
+        oc.commentPosition: ''
+        span: auto
+        required: 0
+        type: text
+    part2:
+        label: 'Segunda Parte'
+        oc.commentPosition: ''
+        span: auto
+        type: text

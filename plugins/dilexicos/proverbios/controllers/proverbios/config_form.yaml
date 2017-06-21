@@ -1,0 +1,10 @@
+name: Proverbios
+form: $/dilexicos/proverbios/models/proverbios/fields.yaml
+modelClass: Dilexicos\Proverbios\Models\Proverbios
+defaultRedirect: dilexicos/proverbios/proverbios
+create:
+    redirect: 'dilexicos/proverbios/proverbios/update/:id'
+    redirectClose: dilexicos/proverbios/proverbios
+update:
+    redirect: dilexicos/proverbios/proverbios
+    redirectClose: dilexicos/proverbios/proverbios

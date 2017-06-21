@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table dilexicos_proverbios_'
+    - builder_table_create_dilexicos_proverbios_.php
+1.0.3:
+    - 'Updated table dilexicos_proverbios_'
+    - builder_table_update_dilexicos_proverbios_.php
+1.0.4:
+    - 'Updated table dilexicos_proverbios_'
+    - builder_table_update_dilexicos_proverbios__2.php

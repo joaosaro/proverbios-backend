@@ -1,0 +1,11 @@
+plugin:
+    name: 'dilexicos.proverbios::lang.plugin.name'
+    description: 'dilexicos.proverbios::lang.plugin.description'
+    author: Diléxicos
+    icon: oc-icon-list
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Proverbios
+        url: dislexicos/proverbios/proverbios
+        icon: icon-list
